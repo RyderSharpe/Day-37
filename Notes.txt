@@ -1,0 +1,9 @@
+HTTP Requests
+1) GET: requests.get()
+    - Ask external system, we get data
+2) POST: requests.post()
+    - Post something to external system
+3) PUT: requests.put()
+    - Update a piece of data
+4) DELETE: requests.delete()
+    - Delete piece of data in external service
